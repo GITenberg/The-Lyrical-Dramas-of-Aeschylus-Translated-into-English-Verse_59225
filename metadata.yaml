@@ -1,0 +1,35 @@
+_repo: The-Lyrical-Dramas-of-Aeschylus-Translated-into-English-Verse_59225
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Blackie, John Stuart
+    birthdate: 1809
+    deathdate: 1895
+    gutenberg_agent_id: '48297'
+    url: http://www.gutenberg.org/2009/agents/48297
+    wikipedia: https://en.wikipedia.org/wiki/John_Stuart_Blackie
+creator:
+  author:
+    agent_name: Aeschylus
+    aliases:
+    - Αἰσχύλος
+    - Aischylos
+    - Αισχύλος
+    birthdate: -525
+    deathdate: -456
+    gutenberg_agent_id: '2825'
+    url: http://www.gutenberg.org/2009/agents/2825
+    wikipedia: http://en.wikipedia.org/wiki/Aeschylus
+description: ''
+gutenberg_issued: '2019-04-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59225'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Lyrical Dramas of Aeschylus Translated into English Verse
+url: http://www.gutenberg.org/ebooks/59225
